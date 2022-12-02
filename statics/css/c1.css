@@ -1,0 +1,13 @@
+h1{
+    background-color:red;
+    color:white;
+    font-size: 30px;
+    border: 2px solid black;
+}
+img{
+    width:200px;
+    height: 200px;
+}
+body{
+    background-color: lightcoral;
+}

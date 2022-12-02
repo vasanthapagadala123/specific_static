@@ -1,0 +1,13 @@
+h1{
+    background-color:red;
+    color:white;
+    font-size:70px;
+    border: 2px solid black;
+    text-align:center;
+}
+img{
+    width:290px;
+    height:290px;
+    border: 2px solid black;
+    margin-top:80px;
+}
